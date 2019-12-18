@@ -1,3 +1,3 @@
 # sherlock-holmes-appreciation
 
-Practice css flex/grid and using images with responsive &amp; accessible web design. Improve usage of rem/em.
+Practice css flex/grid and using images responsive and accessible web design. Continue to improve usage of rem/em, responsive typography, webaccessibility roles, aria-label/aria-labelledby, etc.
