@@ -1,3 +1,3 @@
 # Sherlock Holmes Appreciation
 
-Practice css flex/grid and using images responsive and accessible web design. Continue to improve usage of rem/em, responsive typography, webaccessibility roles, aria-label/aria-labelledby, etc.
+This Sherlock Holmes Appreciation website was used to practice CSS Flex, CSS Grid, Image Responsiveness and proper Web Accessibility practices. Many other things were improved upon, such as my usage of rem/em units, Responsive Typography, Web Accessibility Roles, Aria-label/Aria-labelledby, and much more.
